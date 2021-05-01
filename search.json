@@ -9,7 +9,7 @@ url https://stackoverflow.com/a/46996146/9475509
   {% for post in site.posts %}
     {
 
-      "title"    : "{{ post.title | escape }}",
+      "title"    : "{{ post.pid | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "category" : "{{ post.category }}",
       "tags"     : "{{ post.tags | join: ', ' }}",
