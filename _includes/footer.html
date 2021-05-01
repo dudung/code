@@ -1,0 +1,24 @@
+<nav>
+	{% assign date = page.date | date_to_string %}
+	{% if date != null and date != "" %}
+	{% assign datestr = date | append: "," %}
+	{% else %}
+	{% assign datestr = "" %}
+	{% endif %}
+	
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+	
+	{% 
+		if page.title != "code"
+		and page.title != "About"
+		and page.title != "Viridi"
+	%}
+	<br clear="all">
+	<div class="citation">
+	Cite as: {{ author.name }}, "{{ page.title }}" in <i>soal -- learning physics by solving problems</i>, {{ datestr }} url <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> [accessed {{ "now" | date: "%d %b %Y" }}].
+	{% endif %}
+	</div>
+
+
+
+</nav>
