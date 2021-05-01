@@ -3,7 +3,7 @@ layout: default
 title: code
 ---
 
-# soal -- learning physics by solving problems
+# code -- learning physics through code
 
 <!-- Html Elements for Search -->
 <div id="search-container">
