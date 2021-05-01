@@ -26,6 +26,7 @@ SimpleJekyllSearch({
 </script>
 
 
+{% comment %}
 <!--
 20201122
 1112 Try again. Still not.
@@ -44,3 +45,4 @@ Try to see https://blog.webjeda.com/instant-jekyll-search/ later
 <!--div class='jekyll-twitter-plugin' align="justify">
     {% twitter https://twitter.com/6unpnp maxwidth=400 limit=5 %}
 </div-->
+{% endcomment %}
