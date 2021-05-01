@@ -13,11 +13,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {% capture tweet_url %}
-https://twitter.com/intent/tweet?text=
-{% endcapture %}
+https://twitter.com/intent/tweet?url={{ site.url }}{{ site.baseurl }}{{ page.url }} &via={{ page.twitter_username }}
+{% endcapture %} &hashtags=c{{ page.pid }}
 
 {% capture tweet_msg %}
-&url={{ site.url }}{{ site.baseurl }}{{ page.url }} &via={{ page.twitter_username }}
+&text=ask  
 {% endcapture %}
 
 <p>
@@ -27,13 +27,13 @@ https://twitter.com/intent/tweet?text=
 	- <a href="{{site.baseurl}}{{ author.url }}">{{ author.name }}</a>
 {% endif %} 
 | <a href="{{ page.src }}">History</a> |
-<a id='comment' href="{{ tweet_url }}" name="{{ tweet_msg }}" rel="nofollow" target="_blank" title="Comment on Twitter" hashtags="{{ page.pid }}">Comment</a>
+<a id='comment' href="{{ tweet_url }}" name="{{ tweet_msg }}" rel="nofollow" target="_blank" title="Comment on Twitter">Comment</a>
 </p>
 
 <script>
 function rnd(){return Math.round(1000000*Math.random())};
 var a = document.getElementById("comment");
-a.href = a.href + " " + rnd() + a.name;
+a.href = a.href + " on " + rnd() + a.name;
 </script>
 
 {{ content }}
