@@ -16,5 +16,5 @@ gem "activesupport", ">= 6.0.3.1"
 
 group :jekyll_plugins do
   gem "jekyll-gist"
-#  gem 'jekyll-twitter-plugin'
+  gem 'jekyll-twitter-plugin'
 end
