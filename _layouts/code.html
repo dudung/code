@@ -13,11 +13,11 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {% capture tweet_url %}
-https://twitter.com/intent/tweet?url={{ site.url }}{{ site.baseurl }}{{ page.url }} &via={{ page.twitter_username }}
-{% endcapture %} &hashtags=c{{ page.pid }}
+https://twitter.com/intent/tweet?url={{ site.url }}{{ site.baseurl }}{{ page.url }} &via={{ page.twitter_username }}  &hashtags=code_{{ page.pid }}
+{% endcapture %}
 
 {% capture tweet_msg %}
-&text=ask  
+&text=
 {% endcapture %}
 
 <p>
@@ -31,9 +31,10 @@ https://twitter.com/intent/tweet?url={{ site.url }}{{ site.baseurl }}{{ page.url
 </p>
 
 <script>
-function rnd(){return Math.round(1000000*Math.random())};
+function rnd(){return Math.round(65535*Math.random()).toString(16)};
 var a = document.getElementById("comment");
-a.href = a.href + " on " + rnd() + a.name;
+a.name = a.name + rnd();
+a.href = a.href + a.name;
 </script>
 
 {{ content }}
