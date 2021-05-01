@@ -33,7 +33,7 @@ https://twitter.com/intent/tweet?url={{ site.url }}{{ site.baseurl }}{{ page.url
 <script>
 function rnd(){return Math.round(65535*Math.random()).toString(16)};
 var a = document.getElementById("comment");
-a.name = a.name + rnd();
+a.name = a.name + "[" + rnd() + "]";
 a.href = a.href + a.name;
 </script>
 
