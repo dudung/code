@@ -92,9 +92,14 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 8. <a name="r8"></a>Vijay Murthy, gen-Z ready to perish, "Answer to 'How much is 1 electron-volt (eV)?'", Physics Stack Exchange, 21 Feb 2018, 09:24Z, url <https://physics.stackexchange.com/a/23296/260719> [20210502].
 9. <a name="r9"></a>lw7jz@virginia.edu, "electronvolt", v1.3.3, 28 Apr 2021, url <https://pypi.org/project/electronvolt/> [20210502].
 
+## code
+<iframe src="https://trinket.io/embed/python/0c8adc0621" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-## latihan
+## problem
 1. <a name="p1"></a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
+2. Rentang energi foton cahaya tampak ($399.7 \ \rm THz$ sampai $749.5 \ \rm THz$) dalam $\rm J$ adalah: (A) $(1.653 \ --- 3.100) \times 10^{-19}$. (B) $(2.648 \ --- 4.966) \times 10^{-19}$. (C) $(1.653 \ --- 4.966) \times 10^{-19}$. (D) $(3.100 \ --- 4.966) \times 10^{-19}$. (E) $(2.648 \ --- 3.100) \times 10^{-19}$.
+3. Cahaya tampak memiliki rentang panjang gelombang dari $400 \ \rm nm$ sampai $750 \ \rm nm$ Rentang energi foton cahaya tampak dalam $\rm eV$ adalah: (A) $1.653 \ --- 3.100$. (B) $2.649 \ --- 4.966$. (C) $1.653 \ --- 4.966$. (D) $3.100 \ --- 4.966$. (E) $2.649 \ --- 3.100$.
+
 
 {% comment %}
 #:~:text=
