@@ -20,27 +20,71 @@ twitter_username: 6unpnp
 ---
 Pada tahun 1900 Max Planck (1858-1947) mengusulkan hipotesisnya, yang dikenal sebagai hipotesis kuantum, yang mempostulatkan bahwa energi cahaya hanya dapat diemisikan dan diserap dalam paket-paket diskrit yang disebut sebagai kuanta, di mana ide ini muncul saat ia mencoba menjelaskan radiasi benda hitam, suatu karya yang memberikan dasar bagi kuatum teorinya [[1](#r1)].
 
+
+## energi foton
 Planck mengusulkan suatu hipotesis ad hoc, suatu asumsi sebagai respons dari fakta yang inkonsisten dengan suatu teori untuk mencegah teori tersebut disalahkan [[2](#r2)], bahwa energi kuanta tersebut sebanding dengan frekuensinya $\nu$ dalam bentuk [[3](#r3)]
 
-\begin{equation}\label{eqn:0001}
+\begin{equation}\label{eqn:0001-0}
 E = h\nu,
 \end{equation}
 
 dengan $h$ adalah konstanta Planck [[4](#r4)]
 
-\begin{equation}\label{eqn:0002}
+\begin{equation}\label{eqn:0001-1}
 h = 6.62607015 \times 10^{-34} \ \rm kg\cdot m^2/s,
 \end{equation}
 
 yang telah dikoreksi dari berbagai pengukuran sebelumnya [[5](#r5)].
 
 
-<ol>
-1. <a name="r1"></a>-, "Physics: The Quantum Hypothesis", Scientific Thought: In Context, Encyclopedia.com, 15 Apr 2021, url <https://www.encyclopedia.com/science/science-magazines/physics-quantum-hypothesis> [20210502].
+## laju cahaya
+Untuk gelombang elektromagnetik hubungan
+
+\begin{equation}\label{eqn:0001-2}
+c = \lambda f = \frac{\lambda}{T},
+\end{equation}
+
+dengan $c$ laju cahaya ($\rm m/s)$, $\lambda$ panjang gelombang ($\rm m$), $f$ frekuensi ($\rm Hz$), dan $T$ periode ($\rm s$). Perhatikan bahwa terdapat penggunaan dua simbol berbeda untuk besaran fisis yang sama, yaitu frekuensi, seperti $\nu$ pada Persamaan \eqref{eqn:0001-0} dan $f$ pada Persamaan \eqref{eqn:0001-2}. Selanjutnya, laju cahaya dalam vakum diberikan oleh
+
+\begin{equation}\label{eqn:0001-3}
+c = 2.99792458 \ \rm m/s,
+\end{equation}
+
+mengikuti Conference Generale des Poids et Mesures pada tahun 1938 [[6](#r6)]. Hubungan dalam Persamaan \eqref{eqn:0001-2} dapat membuat Persamaan \eqref{eqn:0001-0} dituliskan kembali menjadi
+
+\begin{equation}\label{eqn:0001-4}
+E = h \frac{c}{\lambda}.
+\end{equation}
+
+Dengan demikian energi foton suatu gelombang elektromagnetik dapat diperoleh dari frekuensinya $\nu$ (atau $f$) dengan Persamaan \eqref{eqn:0001-0} atau dari panjang gelombangnya dengan Persamaan \eqref{eqn:0001-4}.
+
+
+## electronvolt
+Muatan sebuah elektron [[7](#r7)]
+
+\begin{equation}\label{eqn:0001-5}
+e = 1.602176634 \times 10^{−19} \ \rm C,
+\end{equation}
+
+yang keduanya akan digunakan untuk satuan energi $\rm eV$ selain $\rm J.$ Dengan menggunakan Persamaan \eqref{eqn:0001-5} dan makna dari $1 \ \rm eV$ [[8](#r8)] dapat diperoleh bahwa
+
+\begin{equation}\label{eqn:0001-6}
+1 \ {\rm eV} = 1.602176634 \times 10^{−19} \ \rm J.
+\end{equation}
+
+Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan konversi nilai besaran fisis [[9](#r9)].
+
+
+## referensi
+1. <a name="r1"></a>-, "Physics: The Quantum Hypothesis", Scientific Thought: In Context, Encyclopedia.com, 15 Apr 2021, url <https://www.encyclopedia.com/science/science-magazines/physics-quantum-hypothesis> [2021-05-02].
 2. <a name="r2"></a>Robert Todd Carroll, "ad hoc hypothesis", 26 Dec 2011, url <http://59ways.blogspot.com/2011/12/ad-hoc-hypothesis_26.html> [20210502].
 3. <a name="r3"></a>Carl Rod Nave, "The Planck Hypothesis", HyperPhysics, Department of Physics and Astronomy, Georgia State University, 2016, url <http://hyperphysics.phy-astr.gsu.edu/hbase/mod2.html#c3> [20210502].
 4. <a name="r4"></a>-, "Kilogram: Mass and Planck's Constant", National Institute of Standards and Technology, U.S. Department of Commerce, 26 Apr 2021, url <https://www.nist.gov/si-redefinition/kilogram-mass-and-plancks-constant> [20210502].
 5. <a name="r5"></a>D B Newell, F Cabiati, J Fischer, K Fujii, S G Karshenboim, H S Margolis, E de Mirandés, P J Mohr, F Nez, K Pachucki, T J Quinn, B N Taylor, M Wang, B M Wood, Z Zhang, "The CODATA 2017 values of h, e, k, and NA for the revision of the SI", Metrologia [Metrologia], vol. 55, no. 1, p. L13, Feb 2018, url <https://doi.org/10.1088/1681-7575/aa950a>.
+6. <a name="r6"></a>Philip Gibbs, Steve Carlip, "Is The Speed of Light Constant?", The Physics and Relativity FAQ, 1997, url <https://www.desy.de/user/projects/Physics/Relativity/SpeedOfLight/speed_of_light.html> [20210502].
+7. <a name="r7"></a>Wikipedia contributors, "Elementary charge", Wikipedia, The Free Encyclopedia, 11 April 2021, 16:12 UTC, <https://en.wikipedia.org/w/index.php?oldid=1017228993> [20210502].
+8. <a name="r8"></a>Vijay Murthy, gen-Z ready to perish, "Answer to 'How much is 1 electron-volt (eV)?'", Physics Stack Exchange, 21 Feb 2018, 09:24Z, url <https://physics.stackexchange.com/a/23296/260719> [20210502].
+9. <a name="r9"></a>lw7jz@virginia.edu, "electronvolt", v1.3.3, 28 Apr 2021, url <https://pypi.org/project/electronvolt/> [20210502].
 
 {% comment %}
 #:~:text=
