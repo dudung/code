@@ -13,11 +13,9 @@ oo: false
 svgphys: false
 category: physics
 tags: ["hello"]
-date: 2021-05-02 06:30:00 +07
+date: 2021-05-02 03:34:00 +07
 permalink: /0001
-src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-blank.md
+src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-planck-hypothesis.md
 twitter_username: 6unpnp
 ---
 ..
-
-<b title="sdfsdfsd <br/> df \n\r sdfsd">sdfsd</b>
