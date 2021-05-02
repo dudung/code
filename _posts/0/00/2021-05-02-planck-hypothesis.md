@@ -38,7 +38,7 @@ yang telah dikoreksi dari berbagai pengukuran sebelumnya [[5](#r5)].
 
 
 ## laju cahaya
-Untuk gelombang elektromagnetik hubungan
+Untuk gelombang elektromagnetik (EM) hubungan
 
 \begin{equation}\label{eqn:0001-2}
 c = \lambda f = \frac{\lambda}{T},
@@ -47,7 +47,7 @@ c = \lambda f = \frac{\lambda}{T},
 dengan $c$ laju cahaya ($\rm m/s)$, $\lambda$ panjang gelombang ($\rm m$), $f$ frekuensi ($\rm Hz$), dan $T$ periode ($\rm s$). Perhatikan bahwa terdapat penggunaan dua simbol berbeda untuk besaran fisis yang sama, yaitu frekuensi, seperti $\nu$ pada Persamaan \eqref{eqn:0001-0} dan $f$ pada Persamaan \eqref{eqn:0001-2}. Selanjutnya, laju cahaya dalam vakum diberikan oleh
 
 \begin{equation}\label{eqn:0001-3}
-c = 2.99792458 \ \rm m/s,
+c = 2.99792458 \times 10^8 \ \rm m/s,
 \end{equation}
 
 mengikuti Conference Generale des Poids et Mesures pada tahun 1938 [[6](#r6)]. Hubungan dalam Persamaan \eqref{eqn:0001-2} dapat membuat Persamaan \eqref{eqn:0001-0} dituliskan kembali menjadi
@@ -78,7 +78,6 @@ dan
 1 \ {\rm J} = 6.241509074 \times 10^{18} \ \rm eV
 \end{equation}
 
-
 Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan konversi nilai besaran fisis [[9](#r9)].
 
 
@@ -92,6 +91,10 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 7. <a name="r7"></a>Wikipedia contributors, "Elementary charge", Wikipedia, The Free Encyclopedia, 11 April 2021, 16:12 UTC, <https://en.wikipedia.org/w/index.php?oldid=1017228993> [20210502].
 8. <a name="r8"></a>Vijay Murthy, gen-Z ready to perish, "Answer to 'How much is 1 electron-volt (eV)?'", Physics Stack Exchange, 21 Feb 2018, 09:24Z, url <https://physics.stackexchange.com/a/23296/260719> [20210502].
 9. <a name="r9"></a>lw7jz@virginia.edu, "electronvolt", v1.3.3, 28 Apr 2021, url <https://pypi.org/project/electronvolt/> [20210502].
+
+
+## latihan
+1. <a name="e1"></a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
 
 {% comment %}
 #:~:text=
