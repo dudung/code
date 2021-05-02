@@ -13,7 +13,7 @@ oo: false
 svgphys: false
 category: physics
 tags: ["hypothesis", "de broglie", "wavelength", "quantum", "quanta", "light"]
-date: 2021-05-02 19:11:00 +07
+date: 2021-05-02 21:30:00 +07
 permalink: /0002
 src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-de-broglie-hypothesis.md
 twitter_username: 6unpnp
