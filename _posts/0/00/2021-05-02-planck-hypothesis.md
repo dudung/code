@@ -66,7 +66,7 @@ Muatan sebuah elektron [[7](#r7)]
 e = 1.602176634 \times 10^{−19} \ \rm C,
 \end{equation}
 
-yang akan digunakan untuk satuan energi $\rm eV$ selain $\rm J.$ Dengan menggunakan Persamaan \eqref{eqn:0001-5} dan makna dari $1 \ \rm eV$ [[8](#r8)] dapat diperoleh bahwa
+yang akan digunakan untuk memperoleh satuan energi $\rm eV$ selain $\rm J.$ Dengan menggunakan Persamaan \eqref{eqn:0001-5} dan makna dari $1 \ \rm eV$ [[8](#r8)] dapat diperoleh bahwa
 
 \begin{equation}\label{eqn:0001-6}
 1 \ {\rm eV} = 1.602176634 \times 10^{−19} \ \rm J
