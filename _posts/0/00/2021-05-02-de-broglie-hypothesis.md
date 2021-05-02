@@ -34,7 +34,7 @@ dengan $a$ lebar celah, sedangkan untuk kisi posisi maksimum untuk pola difraksi
 d \sin \theta = m \lambda
 \end{equation}
 
-dengan jarak antar dua lubang (celah) berdekatan pada kisi adalah
+dengan $d$ jarak antar dua lubang (celah) berdekatan pada kisi adalah
 
 \begin{equation}\label{eqn:0002-2}
 d = \frac{1}{N},
