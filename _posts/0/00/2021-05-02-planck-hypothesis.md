@@ -95,6 +95,9 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 ## code
 <iframe src="https://trinket.io/embed/python/0c8adc0621" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ dan cahaya kedua dengan frekuensi $f_2 = 500 \ \rm THz$ adalah
+
+
 ## problem
 + <a name="p1">`p1`</a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
 + <a name="p2">`p2`</a>Rentang energi foton cahaya tampak ($399.7 \ \rm THz$ sampai $749.5 \ \rm THz$) dalam $\rm J$ adalah: (A) $(1.653 \ -- 3.100) \times 10^{-19}$. (B) $(2.648 \ -- 4.966) \times 10^{-19}$. (C) $(1.653 \ -- 4.966) \times 10^{-19}$. (D) $(3.100 \ -- 4.966) \times 10^{-19}$. (E) $(2.648 \ -- 3.100) \times 10^{-19}$.
