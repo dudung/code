@@ -95,7 +95,7 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 ## code
 <iframe src="https://trinket.io/embed/python/0c8adc0621" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ dan cahaya kedua dengan frekuensi $f_2 = 500 \ \rm THz$ adalah
+Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ dan cahaya kedua dengan frekuensi $f_2 = 500 \ \rm THz$ adalah $E_1 = \ {\rm J} = \ {\rm eV}$ dan $E_2 = \ {\rm J} = \ {\rm eV}$.
 
 
 ## problem
