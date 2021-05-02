@@ -13,7 +13,7 @@ oo: false
 svgphys: false
 category: physics
 tags: ["hypothesis", "planck", "constant", "quantum", "quanta", "light"]
-date: 2021-05-02 13:37:00 +07
+date: 2021-05-02 16:40:00 +07
 permalink: /0001
 src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-planck-hypothesis.md
 twitter_username: 6unpnp
@@ -105,7 +105,6 @@ Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ 
 + <a name="p4">`p4`</a>Faktor konversi dari $\rm eV$ ke $\rm J$, dan juga sebaliknya, yang tepat adalah: (A) $1.602\times^{-19} \ \rm eV/J$, (B) $6.242\times 10^{18} \ \rm J/eV$, (C) $1.602\times^{-19} \ \rm J/eV$, (D) $6.242\times 10^{18} \ \rm eV/J$, (E) tidak ada di antara semua pilihan yang diberikan.
 + <a name="p5">`p5`</a>Selama suatu peluruhan radioaktif berkas sinar gamma dengan energi $320 \ \rm keV$ dipancarkan. Pernyataan yang tidak tepat adalah: (A) $E_\gamma = 5.127\times 10^{-14} \ \rm J$, (B) $\lambda_\gamma = 3.875 \ \rm pm$, (C) $f_\gamma = 7.738 \times 10^{19} \ \rm Hz$, (D) untuk difraksi gelap $m = 5$ ukuran celah $d \approx 19 \ \rm pm$, (E) pola difraksi dapat terlihat signifikan saat berkas gamma dilewatkan pada sebuah bukaan seperti pintu.
  
-
 {% comment %}
-#:~:text=
+#:~:text=BBA(CD)E
 {% endcomment %}
