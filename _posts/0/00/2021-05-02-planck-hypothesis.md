@@ -94,7 +94,7 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 
 
 ## latihan
-1. <a name="e1"></a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
+1. <a name="p1"></a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
 
 {% comment %}
 #:~:text=
