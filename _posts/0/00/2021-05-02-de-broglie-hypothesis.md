@@ -20,26 +20,58 @@ twitter_username: 6unpnp
 ---
 Louis de Broglie (1892-1987) mengusulkan dalam desertasi PhD-nya pada tahun 1924, bahwa elektron yang partikel juga memiliki sifat gelombang sebagaimana cahaya yang memiliki sifat gelombang dan partikel sekaligus [[1](#r1)].
 
+
+## difraksi
+Untuk celah tunggal posisi minimum pola difraksi diberikan oleh [[2](#r2)]
+
+\begin{equation}\label{eqn:0002-0}
+a \sin \theta = m \lambda
+\end{equation}
+
+dengan $a$ lebar celah, sedangkan untuk kisi posisi maksimum untuk pola difraksi diberikan oleh [[3](#r3)]
+
+\begin{equation}\label{eqn:0002-1}
+d \sin \theta = m \lambda
+\end{equation}
+
+dengan jarak antar dua lubang (celah) berdekatan pada kisi adalah
+
+\begin{equation}\label{eqn:0002-2}
+d = \frac{1}{N},
+\end{equation}
+
+di mana $N$ adalah jumlah garis (celah) per satuan panjang [[4](#r4)]. Baik Persamaan \eqref{eqn:0002-0} maupun Persaman \eqref{eqn:0002-1}, keduanya mengandung suku $\sin\theta$ yang bernilai maksimum $1$ atau $\sin\theta < 1$ sehingga dapat diperoleh batasan orde
+
+\begin{equation}\label{eqn:0002-3}
+m < \frac{a}{\lambda} < \frac{d}{\lambda},
+\end{equation}
+
+agar pola difraksi masih dapat teramati, dengan $a < d$, lebar celah lebih kecil dari jarak antar celah.
+
+
 ## panjang gelombang
 Panjang gelombang de Broglie umumnya dinyatakan dalam bentuk
 
-\begin{equation}\label{eqn:0002-0}
+\begin{equation}\label{eqn:0002-4}
 \lambda = \frac{h}{p},
 \end{equation}
 
 dengan $h$ konstanta Planck dan momentum partikel
 
-\begin{equation}\label{eqn:0002-1}
+\begin{equation}\label{eqn:0002-5}
 p = mv,
 \end{equation}
 
-dengan $m$ dan $v$ merupakan massa dan kecepatan partikel [[2](#r2)]. Bila suatu partikel secara signifikan lebih besar dari panjang gelombang de Broglie-nya atau partikel berinteraksi dengan obyek lain yang ukurannya secara signifikan lebih besar dari panjang gelombang de Broglie partikel tersebut, sifat gelombang dari partikel tidak teramati [[3](#r3)].
+dengan $m$ dan $v$ merupakan massa dan kecepatan partikel [[5](#r5)]. Bila suatu partikel secara signifikan lebih besar dari panjang gelombang de Broglie-nya atau partikel berinteraksi dengan obyek lain yang ukurannya secara signifikan lebih besar dari panjang gelombang de Broglie partikel tersebut, sifat gelombang dari partikel tidak teramati [[6](#r6)].
 
 
 ## referensi
 1. <a name="r1"></a>Wikipedia contributors, "De Broglie hypothesis", The Free Encyclopedia, 30 April 2021, 10:18 UTC, <https://en.wikipedia.org/w/index.php?oldid=1020661116#De_Broglie_hypothesis> [20210502].
-2. <a name="r2"></a>-, "The de Broglie Wavelength", JoVE Core Chemistry, ch. 7.7, url <https://www.jove.com/science-education/11300/the-de-broglie-wavelength> [20210502].
-3. <a name="r3"></a>-, "De Broglie wavelength", Quantum and Nuclear, Glossary Definition for 16-19 IOPGlossary, url <https://spark.iop.org/de-broglie-wavelength> [20210502].
+2. <a name="r2"></a>Carl Rod Nave, "Fraunhofer Single Slit", HyperPhysics, Department of Physics and Astronomy, Georgia State University, 2016, url <http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/sinslit.html#c1> [20210502].
+3. <a name="r3"></a>Carl Rod Nave, "Diffraction Grating", HyperPhysics, Department of Physics and Astronomy, Georgia State University, 2016, url <http://hyperphysics.phy-astr.gsu.edu/hbase/phyopt/gratcal.html> [20210502].
+4. <a name="r4"></a>-, "Diffraction Gratings", Cyberphysics, url <https://www.cyberphysics.co.uk/topics/light/A_level/difraction.htm> [20210502].
+5. <a name="r5"></a>-, "The de Broglie Wavelength", JoVE Core Chemistry, ch. 7.7, url <https://www.jove.com/science-education/11300/the-de-broglie-wavelength> [20210502].
+6. <a name="r6"></a>-, "De Broglie wavelength", Quantum and Nuclear, Glossary Definition for 16-19 IOPGlossary, url <https://spark.iop.org/de-broglie-wavelength> [20210502].
 
 
 {% comment %}
