@@ -96,10 +96,11 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 <iframe src="https://trinket.io/embed/python/0c8adc0621" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## problem
-1. <a name="p1"></a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
-2. Rentang energi foton cahaya tampak ($399.7 \ \rm THz$ sampai $749.5 \ \rm THz$) dalam $\rm J$ adalah: (A) $(1.653 \ --- 3.100) \times 10^{-19}$. (B) $(2.648 \ --- 4.966) \times 10^{-19}$. (C) $(1.653 \ --- 4.966) \times 10^{-19}$. (D) $(3.100 \ --- 4.966) \times 10^{-19}$. (E) $(2.648 \ --- 3.100) \times 10^{-19}$.
-3. Cahaya tampak memiliki rentang panjang gelombang dari $400 \ \rm nm$ sampai $750 \ \rm nm$ Rentang energi foton cahaya tampak dalam $\rm eV$ adalah: (A) $1.653 \ --- 3.100$. (B) $2.649 \ --- 4.966$. (C) $1.653 \ --- 4.966$. (D) $3.100 \ --- 4.966$. (E) $2.649 \ --- 3.100$.
-
++ <a name="p1">`p1`</a>Suatu gelombang EM memiliki panjang gelombang $600 \ \rm nm$. Energi foton dari gelombang EM tersebut dalam $\rm eV$ adalah: (A) $2.254$, (B) $2.066$, (C) $1.907$, (D) $1.837$, (E) $1.771$.
++ <a name="p2">`p2`</a>Rentang energi foton cahaya tampak ($399.7 \ \rm THz$ sampai $749.5 \ \rm THz$) dalam $\rm J$ adalah: (A) $(1.653 \ -- 3.100) \times 10^{-19}$. (B) $(2.648 \ -- 4.966) \times 10^{-19}$. (C) $(1.653 \ -- 4.966) \times 10^{-19}$. (D) $(3.100 \ -- 4.966) \times 10^{-19}$. (E) $(2.648 \ -- 3.100) \times 10^{-19}$.
++ <a name="p3">`p3`</a>Cahaya tampak memiliki rentang panjang gelombang dari $400 \ \rm nm$ sampai $750 \ \rm nm$ Rentang energi foton cahaya tampak dalam $\rm eV$ adalah: (A) $1.653 \ -- 3.100$. (B) $2.649 \ -- 4.966$. (C) $1.653 \ -- 4.966$. (D) $3.100 \ -- 4.966$. (E) $2.649 \ -- 3.100$.
++ <a name="p4">`p4`</a>Faktor konversi dari $\rm eV$ dan $\rm J$, dan juga sebaliknya, yang tepat adalah: (A) $1.602\times^{-19} \ \rm eV/J$, (B) $6.242\times 10^{18} \ \rm J/eV$, (C) $1.602\times^{-19} \ \rm J/eV$, (D) $6.242\times 10^{18} \ \rm eV/J$, (E) tidak ada di antara semua pilihan yang diberikan.
++ <a name="p5">`p5`</a>
 
 {% comment %}
 #:~:text=
