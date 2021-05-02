@@ -93,9 +93,9 @@ Telah terdapat suatu kalkulator bernama `electronvolt` untuk membantu melakukan 
 9. <a name="r9"></a>lw7jz@virginia.edu, "electronvolt", v1.3.3, 28 Apr 2021, url <https://pypi.org/project/electronvolt/> [20210502].
 
 ## code
-<iframe src="https://trinket.io/embed/python/0c8adc0621" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/c1ef29685c" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ dan cahaya kedua dengan frekuensi $f_2 = 500 \ \rm THz$ adalah $E_1 = \ {\rm J} = \ {\rm eV}$ dan $E_2 = \ {\rm J} = \ {\rm eV}$.
+Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ dan cahaya kedua dengan frekuensi $f_2 = 500 \ \rm THz$ adalah $E_1 = 3.612 \times 10^{-19} \ {\rm J} = 2.254 \ {\rm eV}$ dan $E_2 = 3.313 \times 10^{-19} \ {\rm J} = 2.068 \ {\rm eV}$.
 
 
 ## problem
