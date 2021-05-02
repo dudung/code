@@ -103,7 +103,14 @@ Energi foton cahaya pertama dengan panjang gelombang $\lambda_1 = 550 \ \rm nm$ 
 + <a name="p2">`p2`</a>Rentang energi foton cahaya tampak ($399.7 \ \rm THz$ sampai $749.5 \ \rm THz$) dalam $\rm J$ adalah: (A) $(1.653 \ -- 3.100) \times 10^{-19}$. (B) $(2.648 \ -- 4.966) \times 10^{-19}$. (C) $(1.653 \ -- 4.966) \times 10^{-19}$. (D) $(3.100 \ -- 4.966) \times 10^{-19}$. (E) $(2.648 \ -- 3.100) \times 10^{-19}$.
 + <a name="p3">`p3`</a>Cahaya tampak memiliki rentang panjang gelombang dari $400 \ \rm nm$ sampai $750 \ \rm nm$ Rentang energi foton cahaya tampak dalam $\rm eV$ adalah: (A) $1.653 \ -- 3.100$. (B) $2.649 \ -- 4.966$. (C) $1.653 \ -- 4.966$. (D) $3.100 \ -- 4.966$. (E) $2.649 \ -- 3.100$.
 + <a name="p4">`p4`</a>Faktor konversi dari $\rm eV$ ke $\rm J$, dan juga sebaliknya, yang tepat adalah: (A) $1.602\times^{-19} \ \rm eV/J$, (B) $6.242\times 10^{18} \ \rm J/eV$, (C) $1.602\times^{-19} \ \rm J/eV$, (D) $6.242\times 10^{18} \ \rm eV/J$, (E) tidak ada di antara semua pilihan yang diberikan.
-+ <a name="p5">`p5`</a>
++ <a name="p5">`p5`</a>Selama suatu peluruhan radioaktif berkas sinar gamma dengan energi $320 \ \rm keV$ dipancarkan.
+
+(A)
+(B)
+(C)
+(D)
+(E)
+ 
 
 {% comment %}
 #:~:text=
