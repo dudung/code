@@ -12,7 +12,7 @@ threejs: false
 oo: false
 svgphys: false
 category: physics
-tags: ["hypothesis", "planck", "constant"]
+tags: ["hypothesis", "planck", "constant", "quantum", "quanta", "light"]
 date: 2021-05-02 10:26:00 +07
 permalink: /0001
 src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-planck-hypothesis.md
