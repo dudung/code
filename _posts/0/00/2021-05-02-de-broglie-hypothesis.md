@@ -13,7 +13,7 @@ oo: false
 svgphys: false
 category: physics
 tags: ["hypothesis", "de broglie", "wavelength", "quantum", "quanta", "light"]
-date: 2021-05-03 03:52:00 +07
+date: 2021-05-03 08:26:00 +07
 permalink: /0002
 src: https://github.com/dudung/code/commits/main/_posts/0/00/2021-05-02-de-broglie-hypothesis.md
 twitter_username: 6unpnp
@@ -74,7 +74,7 @@ dengan $m$ dan $v$ merupakan massa dan kecepatan partikel [[5](#r5)].
 ## tak teramati
 Bila suatu partikel secara signifikan lebih besar dari panjang gelombang de Broglie-nya atau partikel berinteraksi dengan obyek lain yang ukurannya secara signifikan lebih besar dari panjang gelombang de Broglie partikel tersebut, sifat gelombang dari partikel tidak teramati [[6](#r6)]. Hal ini sejalan dengan yang telah diberikan oleh Persamaan \eqref{eqn:0002-4}.
 
-Sebuah mobil bermassa $2500 \ \rm kg$ bergerak dengan kecepatan $40 \rm m/s$. Pannjang gelombang de Broglie-nya adalah $6.626 \times 10^{-39} \ \rm m$ yang jauh lebih kecil beberapa orde dari ukuran inti atom, yang berkisar antara $(1.6 \ --- 15) \ \rm fm$ mulai dari hanya proton pada hidrogen ringan sampai atom berat seperti uranium [[7](#r7)]. Ukuran yang teramat kecil ini membuat sifat gelombang dari sebuah mobil tidak teramati.
+Sebuah mobil bermassa $2500 \ \rm kg$ bergerak dengan kecepatan $40 \ \rm m/s$. Panjang gelombang de Broglie-nya adalah $6.626 \times 10^{-39} \ \rm m$ yang jauh lebih kecil beberapa orde dari ukuran inti atom, yang berkisar antara $(1.6 \ --- 15) \ \rm fm$ mulai dari hanya proton pada hidrogen ringan sampai atom berat seperti uranium [[7](#r7)]. Ukuran yang teramat kecil ini membuat sifat gelombang dari sebuah mobil tidak teramati.
 
 
 ## referensi
@@ -86,10 +86,16 @@ Sebuah mobil bermassa $2500 \ \rm kg$ bergerak dengan kecepatan $40 \rm m/s$. Pa
 6. <a name="r6"></a>-, "De Broglie wavelength", Quantum and Nuclear, Glossary Definition for 16-19 IOPGlossary, url <https://spark.iop.org/de-broglie-wavelength> [20210502].
 7. <a name="r7"></a>Wikipedia contributors, "Atomic nucleus", Wikipedia, The Free Encyclopedia, 15 Jan 2021, 15:13 UTC, <https://simple.wikipedia.org/w/index.php?oldid=7270601> [20210503].
 
+
 ## code
 <iframe src="https://trinket.io/embed/python/c52bcceccb" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Seorang pelari bermassa $60 \ \rm kg$ sedang bergerak dengan kecepatan $10 \ \rm m/s$, panjang gelombang de Broglienya adalah $1.104 \times 10^{-36} \ \rm m$.
+
+
+## problem
++ <a name="p1">`p1`</a>Sebuah elektron dengan energi $10 \ \rm keV$ dihamburkan pada material dengan salah satu strukturnya memiliki jarak teratur $2.5 \ \rm \unicode{x212B}$. Orde maksimum gelap difraksi yang teramai adalah: (A) $1$, (B) $2$, (C) $3$, (D) $4$, (D) $5$.
+
 
 {% comment %}
 #:~:text=
